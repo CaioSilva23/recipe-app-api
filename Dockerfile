@@ -1,5 +1,5 @@
-FROM python:3.9-alpine3.13
-LABEL maintainer="caio_ceac23@hotmail.com"
+FROM python:3.10.14-alpine3.19
+LABEL maintainer="caio.batista97@outlook.com"
 
 ENV PYTHONUNBUFFERED 1
 
